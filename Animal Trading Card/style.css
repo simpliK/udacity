@@ -1,0 +1,35 @@
+body{
+  font-family: Arial sans-serif;
+}
+.card{
+  width: 300px;
+  padding: 0px 10px;
+  border: 1px solid;
+  box-shadow: 5px 5px 0px grey;
+  background-color: blanchedAlmond;
+}
+.name{
+  text-align: center;
+  font-size: 20px;
+  font-family: Monaco;
+}
+img{
+  width: 300px;
+}
+.fact{
+  margin: 0px;
+}
+li{
+  list-style: none;
+}
+li > span{
+  font-weight: bold;
+}
+ul{
+  padding: 0px;
+}
+.bottom{
+  border: 1px solid grey;
+  margin: 5px 0px 10px;
+  padding: 10px;
+}
